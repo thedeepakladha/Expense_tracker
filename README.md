@@ -1,6 +1,6 @@
 # Expense_tracker
 
---- Personal Expense Tracker ---
+--- Personal Expense Tracker Working ---
 1. Add Expense
 2. View All Expenses
 3. View by Category
